@@ -1,5 +1,9 @@
 # PDF to Notion Automation Script
 
+
+https://github.com/Parmvir-S/PDF-To-Notion/assets/70659748/fb0f0b68-761c-4dda-a228-c0c45508d4cf
+
+
 ## Overview
 
 This Python automation script is designed to simplify the process of converting a PDF document into a series of images, uploading these images to Dropbox, and then inserting them with spaces in between on a newly created Notion page. The motivation behind this project was to save time and effort when preparing for lectures, where the user would typically take screenshots of each page of a PDF, insert them into Notion, and then add notes underneath each page. By automating this process, the user can focus more on the content of the lecture and less on the manual preparation of materials.
